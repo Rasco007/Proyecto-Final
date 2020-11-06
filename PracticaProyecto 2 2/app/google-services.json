@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21613878292",
+    "firebase_url": "https://proyecto-final---gyr.firebaseio.com",
+    "project_id": "proyecto-final---gyr",
+    "storage_bucket": "proyecto-final---gyr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21613878292:android:9a85bffe4d8e857e67db01",
+        "android_client_info": {
+          "package_name": "com.example.practicaproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21613878292-jff04e5fltkv6hbtl3q90b644mntuou7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practicaproyecto",
+            "certificate_hash": "1800c589af3a996fa19aa996cb6c27bacc5f6a34"
+          }
+        },
+        {
+          "client_id": "21613878292-9ntt2noeo8rm6pv2onvb6m9cn3adpbhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsuLJ5CNW2gGf8OnkgDXisaZCUEHOSVys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21613878292-9ntt2noeo8rm6pv2onvb6m9cn3adpbhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
